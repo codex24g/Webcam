@@ -3,5 +3,5 @@ numpy
 Pillow
 tensorflow
 scipy
-opencv-python
+opencv-python-headless
 streamlit-webrtc
