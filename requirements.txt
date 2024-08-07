@@ -1,7 +1,7 @@
 streamlit
 numpy
 Pillow
-tensorflow==2.15.0
+tensorflow
 scipy
 opencv-python-headless
 streamlit-webrtc
